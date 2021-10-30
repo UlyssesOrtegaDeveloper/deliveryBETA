@@ -1,8 +1,8 @@
 {
     "version": 3,
-    "mappings": "AAAA,AAAA,EAAE,AAAC,CACC,KAAK,CAAE,KAAK,CACf",
+    "mappings": "AAAA,AAAA,EAAE,AAAC,CACC,KAAK,CAAE,KAAK,CACZ,gBAAgB,CAAE,SAAS,CAC9B",
     "sources": [
-        "../../__CONFIGURACION_APP__/sass/style.scss"
+        "../../__sass__/sass/style.scss"
     ],
     "names": [],
     "file": "style.css"
